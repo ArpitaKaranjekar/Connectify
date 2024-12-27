@@ -1,0 +1,33 @@
+name: surefy_ai_assignment
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+ 
+  flutter:
+    sdk: flutter
+
+  call_log: ^4.0.0
+  contacts_service: ^0.6.3
+  cupertino_icons: ^1.0.8
+  intl: ^0.18.0
+  permission_handler: ^11.3.1
+  flutter_sms_inbox: ^1.0.3
+
+dev_dependencies:
+  flutter_lints: ^4.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
