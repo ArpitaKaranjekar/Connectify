@@ -1,10 +1,10 @@
 # Project-level configuration.
 cmake_minimum_required(VERSION 3.14)
-project(surefy_ai_assignment LANGUAGES CXX)
+project(connectify_ai_assignment LANGUAGES CXX)
 
 # The name of the executable created for the application. Change this to change
 # the on-disk name of your application.
-set(BINARY_NAME "surefy_ai_assignment")
+set(BINARY_NAME "connectify_ai_assignment")
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.

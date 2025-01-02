@@ -1,4 +1,4 @@
-name: surefy_ai_assignment
+name: connectify
 description: "A new Flutter project."
 
 publish_to: 'none'
@@ -13,12 +13,15 @@ dependencies:
   flutter:
     sdk: flutter
 
-  call_log: ^4.0.0
+  call_log: ^3.2.2
   contacts_service: ^0.6.3
   cupertino_icons: ^1.0.8
+  equatable: ^2.0.7 
+  flutter_bloc: ^8.1.3
   intl: ^0.18.0
   permission_handler: ^11.3.1
   flutter_sms_inbox: ^1.0.3
+  url_launcher: ^6.1.8
 
 dev_dependencies:
   flutter_lints: ^4.0.0

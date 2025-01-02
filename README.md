@@ -1,4 +1,4 @@
-# surefy_ai_assignment
+# connectify
 
 A new Flutter project.
 

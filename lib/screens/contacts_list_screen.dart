@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:surefy_ai_assignment/screens/message_history_screen.dart';
 import 'call_history_screen.dart';
 import '../category.dart';
 import 'package:contacts_service/contacts_service.dart';
 import '../bottom_navigation_bar.dart';
+import 'message_history_screen.dart';
 
 class ContactsListScreen extends StatefulWidget {
   const ContactsListScreen({super.key});
@@ -246,8 +246,8 @@ class _ContactsListScreenState extends State<ContactsListScreen> {
                 autofocus: true,
               )
             : Image.asset(
-                'assets/images/logo.png', // Add your logo here
-                width: 85,
+                'assets/images/company_logo.png', // Add your logo here
+                width: 95,
                 height: 29,
               ),
         centerTitle: false,

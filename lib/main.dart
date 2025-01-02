@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:surefy_ai_assignment/screens/splash_screen.dart';
+
+import 'screens/splash_screen.dart';
+
 
 void main() {
   runApp(const MyApp());

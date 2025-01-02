@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "surefy_ai_assignment" "\0"
+            VALUE "FileDescription", "connectify_ai_assignment" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "surefy_ai_assignment" "\0"
+            VALUE "InternalName", "connectify_ai_assignment" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "surefy_ai_assignment.exe" "\0"
-            VALUE "ProductName", "surefy_ai_assignment" "\0"
+            VALUE "OriginalFilename", "connectify_ai_assignment.exe" "\0"
+            VALUE "ProductName", "connectify_ai_assignment" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

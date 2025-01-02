@@ -58,8 +58,8 @@ class AccessCallLogsPage extends StatelessWidget {
               children: [
                 Image.asset(
                   'assets/images/phone.png', // Ensure this path is correct
-                  width: 390,
-                  height: 396,
+                  width: 590,
+                  height: 596,
                   fit: BoxFit.contain,
                 ),
                 const SizedBox(height: 20),
